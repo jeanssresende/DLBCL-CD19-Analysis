@@ -62,12 +62,12 @@ DLBCL-CD19-Analysis/
 
 - [x] Create GitHub repository
 - [x] Start manuscript
-- [ ] Complete Introduction
-- [ ] Complete Methods
-- [ ] Complete Results
-- [ ] Complete Discussion
-- [ ] Add analysis scripts
-- [ ] Submit manuscript
+- [x] Complete Introduction
+- [x] Complete Methods
+- [x] Complete Results
+- [x] Complete Discussion
+- [x] Add analysis scripts
+- [x] Submit manuscript
 - [ ] Publish repository
 
 ---
